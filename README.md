@@ -1,9 +1,7 @@
-# elixir-books
-
 ### Repository to make notes and exercises from a variety of Elixir books.
 
  
-1. <p align="center"> 
+<p align="center"> 
    <a href="https://joyofelixir.com/"> Joy of Elixir </a>
    from <a href="https://ryanbigg.com/"> Ryan Bigg </a>
  </p>
