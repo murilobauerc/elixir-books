@@ -1,12 +1,14 @@
-# joy-of-elixir-notes
+# elixir-books
 
-Repository to make notes and exercises from Joy of Elixir, an Elixir book written by [Ryan Bigg](https://ryanbigg.com/).
+### Repository to make notes and exercises from a variety of Elixir books.
 
-<p align="center"> 
+ 
+1. <p align="center"> 
    <a href="https://joyofelixir.com/"> Joy of Elixir </a>
+   from <a href="https://ryanbigg.com/"> Ryan Bigg </a>
  </p>
 <p align="center">
-  <img width="343" alt="small-cover" src="https://user-images.githubusercontent.com/18623084/149844008-12ed02f6-7b6b-40d5-a86e-443d19d5125a.png">
+  <img width="300" alt="small-cover" src="https://user-images.githubusercontent.com/18623084/149844008-12ed02f6-7b6b-40d5-a86e-443d19d5125a.png">
 </p>
 
 
